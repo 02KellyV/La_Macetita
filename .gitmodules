@@ -1,0 +1,6 @@
+[submodule "La_Macetita_API"]
+	path = La_Macetita_API
+	url = https://github.com/02KellyV/La_Macetita_API.git
+[submodule "La_Macetita_Front"]
+	path = La_Macetita_Front
+	url = https://github.com/02KellyV/La_Macetita_Front.git
