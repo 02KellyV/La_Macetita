@@ -60,13 +60,11 @@ If you'd like to request a new function, feel free to do. Please include sample 
 
 ### Authors
 
-* [Kelly Villa Collazos](https://github.com/02KellyV)
-- 900@holbertonschool.com
+* [Kelly Villa Collazos](https://github.com/02KellyV) - 900@holbertonschool.com
 
-* [Maribel Serna Arbeláez](https://github.com/MarySerna)
-- 898@holbertonschool.com
+* [Maribel Serna Arbeláez](https://github.com/MarySerna) - 898@holbertonschool.com
 
 ## License
 
-MIT © [Released under MIT License ](https://github.com/02KellyV/La_Macetita_API/blob/f63bbde550352c41b109bfb3a225eba403912c85/LICENSE)
-GNU © [Copy & distribute under GNU V3](https://github.com/02KellyV/La_Macetita/blob/master/LICENSE)
+- MIT © [Released under MIT License ](https://github.com/02KellyV/La_Macetita_API/blob/f63bbde550352c41b109bfb3a225eba403912c85/LICENSE)
+- GNU © [Copy & distribute under GNU V3](https://github.com/02KellyV/La_Macetita/blob/master/LICENSE)
