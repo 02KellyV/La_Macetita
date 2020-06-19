@@ -1,5 +1,5 @@
 # La Macetita
-
+![](https://raw.githubusercontent.com/02KellyV/La_Macetita/master/images/mockups/Banner.PNG)
 __History__
 ***La Macetita***, was born thanks to the search for healthy and less processed foods in the quarantine season. Life went from being outdoors to staying in our homes, many local businesses closed due to the lack of visitors and commerce moved into the virtual world. Organic foods are found little or not at all in traditional markets.
 
@@ -10,14 +10,6 @@ This project creates a window to the farmers' markets that may or may not have a
 We want to promote the organic and responsible production of organic, natural and artisanal products and food, in this way we support sustainable agriculture, organic farms, farming families and non-profit organizations.
 
 __Demo:__ In progress our working live demo ⏳⌛
-
-## Site
-### Landing Page
-Currently it is working on AWS, link will be added soon.
-![](https://raw.githubusercontent.com/02KellyV/La_Macetita/master/images/mockups/Banner.PNG)
-
-### User Register Form
-![](https://raw.githubusercontent.com/02KellyV/La_Macetita/master/images/mockups/sign_up.png)
 
 ## Built with 
 
