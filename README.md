@@ -12,13 +12,13 @@ We want to promote the organic and responsible production of organic, natural an
 __Demo:__ In progress our working live demo ⏳⌛
 
 ## Site
+### Landing Page
+Currently it is working on AWS, link will be added soon.
+![](https://raw.githubusercontent.com/02KellyV/La_Macetita/master/images/mockups/Banner.PNG)
 
 ### User Register Form
 ![](https://raw.githubusercontent.com/02KellyV/La_Macetita/master/images/mockups/sign_up.png)
-### Landing Page
-Currently it is working on AWS, link will be added soon.
 
-![](https://raw.githubusercontent.com/02KellyV/La_Macetita/master/images/mockups/landing.png)
 ## Built with 
 
 __FrontEnd__
@@ -60,9 +60,11 @@ If you'd like to request a new function, feel free to do. Please include sample 
 
 ### Authors
 
-* [Kelly Villa Collazos](https://github.com/02KellyV) - 900@holbertonschool.com
+![](https://raw.githubusercontent.com/02KellyV/La_Macetita/master/images/mockups/info.PNG)
 
-* [Maribel Serna Arbeláez](https://github.com/MarySerna) - 898@holbertonschool.com
+* [Kelly Villa Collazos (**GitHub**)](https://github.com/02KellyV) - 900@holbertonschool.com
+
+* [Maribel Serna Arbeláez (**GitHub**)](https://github.com/MarySerna) - 898@holbertonschool.com
 
 ## License
 
